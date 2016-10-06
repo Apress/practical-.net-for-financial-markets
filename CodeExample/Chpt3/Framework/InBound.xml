@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<template name="MTM512" seek="0">
+<sections>
+	<section name="Header" description="Header Section">
+		<inbound identifer="" repeater="no"></inbound>
+		<rows type="header">
+			<row identifer="">
+				<cols delimeter="">
+					<col>
+					</col>
+				</cols>
+			</row>
+			<row identifer="">
+				<cols delimeter="">
+					<col>
+					</col>
+				</cols>
+			</row>
+		</rows>
+	</section>
+	<section name="Detail" description="Detail Section" identifer="" repeater="yes">
+		<rows type="detail">
+			<row identifer="">
+				<cols delimeter="">
+					<col>
+					</col>
+				</cols>
+			</row>
+		</rows>
+	</section>
+</sections>
+</template>

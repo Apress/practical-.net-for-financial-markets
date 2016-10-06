@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCastServer", "MCastServer.csproj", "{1E3A47B4-0207-4E09-BE53-21D1B8A22D79}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1E3A47B4-0207-4E09-BE53-21D1B8A22D79}.Debug.ActiveCfg = Debug|.NET
+		{1E3A47B4-0207-4E09-BE53-21D1B8A22D79}.Debug.Build.0 = Debug|.NET
+		{1E3A47B4-0207-4E09-BE53-21D1B8A22D79}.Release.ActiveCfg = Release|.NET
+		{1E3A47B4-0207-4E09-BE53-21D1B8A22D79}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\RemoteServer.exe
+bin\Debug\RemoteServer.pdb
+bin\Debug\GenericsShared.dll
+bin\Debug\GenericsShared.pdb
+obj\Debug\RemoteServer.exe
+obj\Debug\RemoteServer.pdb
+bin\Debug\RemoteServer.exe.config

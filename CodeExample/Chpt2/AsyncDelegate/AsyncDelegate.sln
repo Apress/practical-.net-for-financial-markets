@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncDelegate", "AsyncDelegate.csproj", "{E52E4115-E307-4E71-82C5-FEA11967327F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E52E4115-E307-4E71-82C5-FEA11967327F}.Debug.ActiveCfg = Debug|.NET
+		{E52E4115-E307-4E71-82C5-FEA11967327F}.Debug.Build.0 = Debug|.NET
+		{E52E4115-E307-4E71-82C5-FEA11967327F}.Release.ActiveCfg = Release|.NET
+		{E52E4115-E307-4E71-82C5-FEA11967327F}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

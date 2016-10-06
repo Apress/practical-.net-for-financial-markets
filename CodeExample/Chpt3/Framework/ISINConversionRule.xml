@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<matrix>
+<bands>
+	<band name="Header" identifier="ISINMASTER" start="0" loop="single" >
+		<rows>
+		<row name="HeaderInfo" identifier="" length="0" coldelimeter="" >
+		<cols>
+			<col name="InfoDateTime" length="7" start="11"/>
+		</cols>
+		</row>
+		</rows>
+	</band>
+	<band name="Detail" identifier="IN" start="0" loop="repeatable" >
+		<rows>
+			<row name="ISIN" identifier="" length="0" coldelimeter="," >
+			<cols>
+				<col name="ISINCode" length="12" start="0"/>
+				<col name="Symbol"    length="12" start="0"/>
+				<col name="FaceValue" length="12" start="0"/>
+				<col name="MarketLot" length="12" start="0"/>
+				<col name="Status"    length="12" start="0"/>
+			</cols>
+			</row>
+			<row>
+			<band name="Exchanges" identifier="EXCHANGE" start="0" loop="repeatable" >
+			<rows>
+				<row name="Exchange" identifier="" length="0" coldelimeter="," >
+				<cols>
+					<col name="ExchangeTag" length="12" start="0"/>
+					<col name="Code" length="12" start="0"/>
+					<col name="ScripCode" length="12" start="0"/>
+				</cols>
+			</row>
+			</rows>
+			</band>
+			</row>
+			</rows>
+	</band>
+	<band name="Footer" identifier="ISINEOF" start="0" loop="single">
+		<rows>
+			<row name="FooterInfo" identifier="" length="0" coldelimeter="">
+			<cols>
+				<col name="FooterTag" length="7" start="0"/>
+			</cols>
+			</row>
+		</rows>
+	</band>
+</bands>
+</matrix>

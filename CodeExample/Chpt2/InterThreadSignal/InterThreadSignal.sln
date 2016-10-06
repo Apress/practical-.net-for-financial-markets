@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterThreadSignal", "InterThreadSignal.csproj", "{C75A0A3A-17CF-4765-A2A7-791B7F3B55F0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C75A0A3A-17CF-4765-A2A7-791B7F3B55F0}.Debug.ActiveCfg = Debug|.NET
+		{C75A0A3A-17CF-4765-A2A7-791B7F3B55F0}.Debug.Build.0 = Debug|.NET
+		{C75A0A3A-17CF-4765-A2A7-791B7F3B55F0}.Release.ActiveCfg = Release|.NET
+		{C75A0A3A-17CF-4765-A2A7-791B7F3B55F0}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

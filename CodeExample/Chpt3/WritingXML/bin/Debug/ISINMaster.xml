@@ -1,0 +1,9 @@
+﻿<ISINMaster>
+  <ISINS>
+    <ISIN Symbol="MSFT" FaceValue="10" MarketLot="5">
+      <Exchanges>
+        <Exchange Code="NASDAQ" ScripCode="MSFT.O" />
+      </Exchanges>
+    </ISIN>
+  </ISINS>
+</ISINMaster>

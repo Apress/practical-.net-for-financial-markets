@@ -1,0 +1,5 @@
+bin\Debug\NetAdapterStat.exe
+bin\Debug\NetAdapterStat.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\NetAdapterStat.exe
+obj\Debug\NetAdapterStat.pdb

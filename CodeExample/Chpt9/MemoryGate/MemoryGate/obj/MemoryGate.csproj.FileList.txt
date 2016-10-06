@@ -1,0 +1,5 @@
+bin\Debug\MemoryGate.exe
+bin\Debug\MemoryGate.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MemoryGate.exe
+obj\Debug\MemoryGate.pdb

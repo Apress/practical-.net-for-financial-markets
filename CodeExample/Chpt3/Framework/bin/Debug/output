@@ -1,0 +1,13 @@
+<Header>
+    <HeaderInfo InfoDateTime="2122004" />
+</Header>
+<Detail>
+    <ISIN ISINCode="INE456789012" Symbol="MSFT" FaceValue="10" MarketLot="5" Status="Active" />
+    <Exchanges>
+        <Exchange ExchangeTag="EXCHANGE" Code="NASDAQ" ScripCode="MSFT" />
+        <Exchange ExchangeTag="EXCHANGE" Code="NYSE" ScripCode="MSFT" />
+    </Exchanges>
+</Detail>
+<Footer>
+    <FooterInfo FooterTag="ISINEOF" />
+</Footer>

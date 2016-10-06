@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeMktDataSvc", "ExchangeMktDataSvc.csproj", "{75C81ABB-94F8-441A-8C1D-6ED8858AABE8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{75C81ABB-94F8-441A-8C1D-6ED8858AABE8}.Debug.ActiveCfg = Debug|.NET
+		{75C81ABB-94F8-441A-8C1D-6ED8858AABE8}.Debug.Build.0 = Debug|.NET
+		{75C81ABB-94F8-441A-8C1D-6ED8858AABE8}.Release.ActiveCfg = Release|.NET
+		{75C81ABB-94F8-441A-8C1D-6ED8858AABE8}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

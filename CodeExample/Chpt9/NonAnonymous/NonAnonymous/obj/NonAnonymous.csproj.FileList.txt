@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\NonAnonymous.exe
+bin\Debug\NonAnonymous.pdb
+obj\Debug\NonAnonymous.exe
+obj\Debug\NonAnonymous.pdb

@@ -1,0 +1,5 @@
+bin\Debug\GenericCollections.exe
+bin\Debug\GenericCollections.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GenericCollections.exe
+obj\Debug\GenericCollections.pdb

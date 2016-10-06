@@ -1,0 +1,14 @@
+﻿<ISINMaster>
+    <ISIN  ISINCode="US5949181045" 
+           Symbol="MSFT" 
+           FaceValue="10" 
+           MarketLot="5" 
+           Status="Active" >
+   <Exchanges>
+     <Exchange Code="NASDAQ"
+               ScripCode="MSFT.O" />
+     <Exchange Code="NYSE" 
+               ScripCode="MSFT.N" />
+   </Exchanges>
+   </ISIN>
+</ISINMaster>

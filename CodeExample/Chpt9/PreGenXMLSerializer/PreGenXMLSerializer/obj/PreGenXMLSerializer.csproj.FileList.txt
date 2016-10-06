@@ -1,0 +1,5 @@
+bin\Debug\PreGenXMLSerializer.exe
+bin\Debug\PreGenXMLSerializer.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PreGenXMLSerializer.exe
+obj\Debug\PreGenXMLSerializer.pdb

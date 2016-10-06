@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortReflectionEmit", "SortReflectionEmit.csproj", "{9E300229-6D7F-4955-9CE1-FF506C3E260B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedAssembly", "..\SharedAssembly\SharedAssembly.csproj", "{7F182EDC-9BCD-44A7-9282-2259B2123BB1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9E300229-6D7F-4955-9CE1-FF506C3E260B}.Debug.ActiveCfg = Debug|.NET
+		{9E300229-6D7F-4955-9CE1-FF506C3E260B}.Debug.Build.0 = Debug|.NET
+		{9E300229-6D7F-4955-9CE1-FF506C3E260B}.Release.ActiveCfg = Release|.NET
+		{9E300229-6D7F-4955-9CE1-FF506C3E260B}.Release.Build.0 = Release|.NET
+		{7F182EDC-9BCD-44A7-9282-2259B2123BB1}.Debug.ActiveCfg = Debug|.NET
+		{7F182EDC-9BCD-44A7-9282-2259B2123BB1}.Debug.Build.0 = Debug|.NET
+		{7F182EDC-9BCD-44A7-9282-2259B2123BB1}.Release.ActiveCfg = Release|.NET
+		{7F182EDC-9BCD-44A7-9282-2259B2123BB1}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

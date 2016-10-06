@@ -1,0 +1,5 @@
+bin\Debug\GenericsShared.dll
+bin\Debug\GenericsShared.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GenericsShared.dll
+obj\Debug\GenericsShared.pdb

@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortCodeDOM", "SortCodeDOM.csproj", "{EB457ED4-99F1-42E2-93ED-5635F9611B61}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedAssembly", "..\SharedAssembly\SharedAssembly.csproj", "{7F182EDC-9BCD-44A7-9282-2259B2123BB1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{EB457ED4-99F1-42E2-93ED-5635F9611B61}.Debug.ActiveCfg = Debug|.NET
+		{EB457ED4-99F1-42E2-93ED-5635F9611B61}.Debug.Build.0 = Debug|.NET
+		{EB457ED4-99F1-42E2-93ED-5635F9611B61}.Release.ActiveCfg = Release|.NET
+		{EB457ED4-99F1-42E2-93ED-5635F9611B61}.Release.Build.0 = Release|.NET
+		{7F182EDC-9BCD-44A7-9282-2259B2123BB1}.Debug.ActiveCfg = Debug|.NET
+		{7F182EDC-9BCD-44A7-9282-2259B2123BB1}.Debug.Build.0 = Debug|.NET
+		{7F182EDC-9BCD-44A7-9282-2259B2123BB1}.Release.ActiveCfg = Release|.NET
+		{7F182EDC-9BCD-44A7-9282-2259B2123BB1}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

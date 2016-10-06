@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPC.ServiceHost", "LPC.ServiceHost.csproj", "{FF8E793A-8C0C-4E40-9754-6AA89B0DC0C1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPC.Common", "..\LPC.Common\LPC.Common.csproj", "{36FEFABC-5B26-4C70-B6D2-FAA6381A83CA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPC.Services", "..\LPC.Services\LPC.Services.csproj", "{B8474108-38FC-47EE-83E5-B19CD897FB56}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FF8E793A-8C0C-4E40-9754-6AA89B0DC0C1}.Debug.ActiveCfg = Debug|.NET
+		{FF8E793A-8C0C-4E40-9754-6AA89B0DC0C1}.Debug.Build.0 = Debug|.NET
+		{FF8E793A-8C0C-4E40-9754-6AA89B0DC0C1}.Release.ActiveCfg = Release|.NET
+		{FF8E793A-8C0C-4E40-9754-6AA89B0DC0C1}.Release.Build.0 = Release|.NET
+		{36FEFABC-5B26-4C70-B6D2-FAA6381A83CA}.Debug.ActiveCfg = Debug|.NET
+		{36FEFABC-5B26-4C70-B6D2-FAA6381A83CA}.Debug.Build.0 = Debug|.NET
+		{36FEFABC-5B26-4C70-B6D2-FAA6381A83CA}.Release.ActiveCfg = Release|.NET
+		{36FEFABC-5B26-4C70-B6D2-FAA6381A83CA}.Release.Build.0 = Release|.NET
+		{B8474108-38FC-47EE-83E5-B19CD897FB56}.Debug.ActiveCfg = Debug|.NET
+		{B8474108-38FC-47EE-83E5-B19CD897FB56}.Debug.Build.0 = Debug|.NET
+		{B8474108-38FC-47EE-83E5-B19CD897FB56}.Release.ActiveCfg = Release|.NET
+		{B8474108-38FC-47EE-83E5-B19CD897FB56}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

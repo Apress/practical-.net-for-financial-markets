@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MBRLease", "MBRLease.csproj", "{F47FF5FF-C2FE-4305-92C6-4E01B800D84B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F47FF5FF-C2FE-4305-92C6-4E01B800D84B}.Debug.ActiveCfg = Debug|.NET
+		{F47FF5FF-C2FE-4305-92C6-4E01B800D84B}.Debug.Build.0 = Debug|.NET
+		{F47FF5FF-C2FE-4305-92C6-4E01B800D84B}.Release.ActiveCfg = Release|.NET
+		{F47FF5FF-C2FE-4305-92C6-4E01B800D84B}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayContainer", "ArrayContainer.csproj", "{F8ADAA86-2A80-4597-AF0F-88B156DB8C9E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F8ADAA86-2A80-4597-AF0F-88B156DB8C9E}.Debug.ActiveCfg = Debug|.NET
+		{F8ADAA86-2A80-4597-AF0F-88B156DB8C9E}.Debug.Build.0 = Debug|.NET
+		{F8ADAA86-2A80-4597-AF0F-88B156DB8C9E}.Release.ActiveCfg = Release|.NET
+		{F8ADAA86-2A80-4597-AF0F-88B156DB8C9E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

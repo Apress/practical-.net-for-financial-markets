@@ -1,0 +1,5 @@
+bin\Debug\NetRadar.exe
+bin\Debug\NetRadar.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\NetRadar.exe
+obj\Debug\NetRadar.pdb

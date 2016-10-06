@@ -1,0 +1,5 @@
+bin\Debug\GenericDelegate.exe
+bin\Debug\GenericDelegate.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GenericDelegate.exe
+obj\Debug\GenericDelegate.pdb

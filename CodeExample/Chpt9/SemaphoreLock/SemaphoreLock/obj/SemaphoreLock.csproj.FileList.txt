@@ -1,0 +1,5 @@
+bin\Debug\SemaphoreLock.exe
+bin\Debug\SemaphoreLock.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SemaphoreLock.exe
+obj\Debug\SemaphoreLock.pdb

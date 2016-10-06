@@ -1,0 +1,6 @@
+bin\Debug\GCConfig.exe.config
+bin\Debug\GCConfig.exe
+bin\Debug\GCConfig.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GCConfig.exe
+obj\Debug\GCConfig.pdb

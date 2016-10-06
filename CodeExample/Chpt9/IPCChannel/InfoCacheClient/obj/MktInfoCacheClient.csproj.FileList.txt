@@ -1,0 +1,8 @@
+bin\Debug\MktInfoCacheClient.exe.config
+bin\Debug\MktInfoCacheClient.exe
+bin\Debug\MktInfoCacheClient.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MktInfoCacheClient.exe
+obj\Debug\MktInfoCacheClient.pdb
+bin\Debug\Common.dll
+bin\Debug\Common.pdb

@@ -1,0 +1,5 @@
+bin\Debug\PartialTypes.exe
+bin\Debug\PartialTypes.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PartialTypes.exe
+obj\Debug\PartialTypes.pdb

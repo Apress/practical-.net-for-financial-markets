@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsymmetricAlgo", "AsymmetricAlgo.csproj", "{5DE37658-0478-47E9-8859-F274415F3E4F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{5DE37658-0478-47E9-8859-F274415F3E4F}.Debug.ActiveCfg = Debug|.NET
+		{5DE37658-0478-47E9-8859-F274415F3E4F}.Debug.Build.0 = Debug|.NET
+		{5DE37658-0478-47E9-8859-F274415F3E4F}.Release.ActiveCfg = Release|.NET
+		{5DE37658-0478-47E9-8859-F274415F3E4F}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+bin\Debug\NetDetector.exe
+bin\Debug\NetDetector.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\NetDetector.exe
+obj\Debug\NetDetector.pdb

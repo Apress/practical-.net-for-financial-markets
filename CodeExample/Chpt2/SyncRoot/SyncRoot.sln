@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncRoot", "SyncRoot.csproj", "{3557B1B6-D44C-4705-84EC-CD7EACBA85BC}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3557B1B6-D44C-4705-84EC-CD7EACBA85BC}.Debug.ActiveCfg = Debug|.NET
+		{3557B1B6-D44C-4705-84EC-CD7EACBA85BC}.Debug.Build.0 = Debug|.NET
+		{3557B1B6-D44C-4705-84EC-CD7EACBA85BC}.Release.ActiveCfg = Release|.NET
+		{3557B1B6-D44C-4705-84EC-CD7EACBA85BC}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

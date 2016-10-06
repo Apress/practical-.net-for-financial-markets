@@ -1,0 +1,5 @@
+bin\Debug\NetStat.exe
+bin\Debug\NetStat.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\NetStat.exe
+obj\Debug\NetStat.pdb

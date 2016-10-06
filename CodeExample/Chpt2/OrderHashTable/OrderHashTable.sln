@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderHashTable", "OrderHashTable.csproj", "{19533E31-2AAB-4C7F-A81F-7D6067D60CAF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{19533E31-2AAB-4C7F-A81F-7D6067D60CAF}.Debug.ActiveCfg = Debug|.NET
+		{19533E31-2AAB-4C7F-A81F-7D6067D60CAF}.Debug.Build.0 = Debug|.NET
+		{19533E31-2AAB-4C7F-A81F-7D6067D60CAF}.Release.ActiveCfg = Release|.NET
+		{19533E31-2AAB-4C7F-A81F-7D6067D60CAF}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

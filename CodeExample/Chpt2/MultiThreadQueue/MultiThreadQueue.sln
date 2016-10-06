@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadQueue", "MultiThreadQueue.csproj", "{F44F7925-EE93-46FA-BB9F-5A373C8B9DA4}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F44F7925-EE93-46FA-BB9F-5A373C8B9DA4}.Debug.ActiveCfg = Debug|.NET
+		{F44F7925-EE93-46FA-BB9F-5A373C8B9DA4}.Debug.Build.0 = Debug|.NET
+		{F44F7925-EE93-46FA-BB9F-5A373C8B9DA4}.Release.ActiveCfg = Release|.NET
+		{F44F7925-EE93-46FA-BB9F-5A373C8B9DA4}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

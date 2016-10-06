@@ -1,0 +1,5 @@
+bin\Debug\NullableTypes.exe
+bin\Debug\NullableTypes.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\NullableTypes.exe
+obj\Debug\NullableTypes.pdb

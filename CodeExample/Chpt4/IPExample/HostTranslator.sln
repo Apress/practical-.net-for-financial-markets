@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostTranslator", "HostTranslator.csproj", "{2AC3F94B-9BF0-4C1A-B722-543B8CBB85CE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2AC3F94B-9BF0-4C1A-B722-543B8CBB85CE}.Debug.ActiveCfg = Debug|.NET
+		{2AC3F94B-9BF0-4C1A-B722-543B8CBB85CE}.Debug.Build.0 = Debug|.NET
+		{2AC3F94B-9BF0-4C1A-B722-543B8CBB85CE}.Release.ActiveCfg = Release|.NET
+		{2AC3F94B-9BF0-4C1A-B722-543B8CBB85CE}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

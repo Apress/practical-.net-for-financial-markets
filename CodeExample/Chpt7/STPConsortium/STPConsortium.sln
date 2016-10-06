@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STPConsortium", "STPConsortium.csproj", "{C80CA902-BB27-43EA-9D3E-003E3C11572C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C80CA902-BB27-43EA-9D3E-003E3C11572C}.Debug.ActiveCfg = Debug|.NET
+		{C80CA902-BB27-43EA-9D3E-003E3C11572C}.Debug.Build.0 = Debug|.NET
+		{C80CA902-BB27-43EA-9D3E-003E3C11572C}.Release.ActiveCfg = Release|.NET
+		{C80CA902-BB27-43EA-9D3E-003E3C11572C}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPMDP", "TCPMDP.csproj", "{763C60B3-C8B9-4170-BAFA-CE3D009F1BE6}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{763C60B3-C8B9-4170-BAFA-CE3D009F1BE6}.Debug.ActiveCfg = Debug|.NET
+		{763C60B3-C8B9-4170-BAFA-CE3D009F1BE6}.Debug.Build.0 = Debug|.NET
+		{763C60B3-C8B9-4170-BAFA-CE3D009F1BE6}.Release.ActiveCfg = Release|.NET
+		{763C60B3-C8B9-4170-BAFA-CE3D009F1BE6}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

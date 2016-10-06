@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{8E5C96F5-8369-4DF0-B7C0-0369025A489A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MktInfoCacheClient", "InfoCacheClient\MktInfoCacheClient.csproj", "{AA65C3D3-8E5F-499A-9821-EC2DB7ED0029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MktInfoCacheServer", "InfoCacheServer\MktInfoCacheServer.csproj", "{2D11ABB2-C1C6-4BD6-A0F1-3E6426D0529B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E5C96F5-8369-4DF0-B7C0-0369025A489A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5C96F5-8369-4DF0-B7C0-0369025A489A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5C96F5-8369-4DF0-B7C0-0369025A489A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5C96F5-8369-4DF0-B7C0-0369025A489A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA65C3D3-8E5F-499A-9821-EC2DB7ED0029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA65C3D3-8E5F-499A-9821-EC2DB7ED0029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA65C3D3-8E5F-499A-9821-EC2DB7ED0029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA65C3D3-8E5F-499A-9821-EC2DB7ED0029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D11ABB2-C1C6-4BD6-A0F1-3E6426D0529B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D11ABB2-C1C6-4BD6-A0F1-3E6426D0529B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D11ABB2-C1C6-4BD6-A0F1-3E6426D0529B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D11ABB2-C1C6-4BD6-A0F1-3E6426D0529B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadStateMachine", "ThreadStateMachine.csproj", "{8B2D3242-7C24-4B9A-B41A-96E0A406F429}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{8B2D3242-7C24-4B9A-B41A-96E0A406F429}.Debug.ActiveCfg = Debug|.NET
+		{8B2D3242-7C24-4B9A-B41A-96E0A406F429}.Debug.Build.0 = Debug|.NET
+		{8B2D3242-7C24-4B9A-B41A-96E0A406F429}.Release.ActiveCfg = Release|.NET
+		{8B2D3242-7C24-4B9A-B41A-96E0A406F429}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLSerialization", "XMLSerialization.csproj", "{0DF55A6B-7D89-41D2-8CCE-BF75A7539007}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{0DF55A6B-7D89-41D2-8CCE-BF75A7539007}.Debug.ActiveCfg = Debug|.NET
+		{0DF55A6B-7D89-41D2-8CCE-BF75A7539007}.Debug.Build.0 = Debug|.NET
+		{0DF55A6B-7D89-41D2-8CCE-BF75A7539007}.Release.ActiveCfg = Release|.NET
+		{0DF55A6B-7D89-41D2-8CCE-BF75A7539007}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

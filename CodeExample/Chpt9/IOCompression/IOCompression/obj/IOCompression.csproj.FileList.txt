@@ -1,0 +1,5 @@
+bin\Debug\IOCompression.exe
+bin\Debug\IOCompression.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\IOCompression.exe
+obj\Debug\IOCompression.pdb

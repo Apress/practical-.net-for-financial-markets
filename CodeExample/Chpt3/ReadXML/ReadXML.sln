@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadXML", "ReadXML.csproj", "{AEEA8A80-E0A4-4D3F-8E4F-2BEB66630ABA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{AEEA8A80-E0A4-4D3F-8E4F-2BEB66630ABA}.Debug.ActiveCfg = Debug|.NET
+		{AEEA8A80-E0A4-4D3F-8E4F-2BEB66630ABA}.Debug.Build.0 = Debug|.NET
+		{AEEA8A80-E0A4-4D3F-8E4F-2BEB66630ABA}.Release.ActiveCfg = Release|.NET
+		{AEEA8A80-E0A4-4D3F-8E4F-2BEB66630ABA}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

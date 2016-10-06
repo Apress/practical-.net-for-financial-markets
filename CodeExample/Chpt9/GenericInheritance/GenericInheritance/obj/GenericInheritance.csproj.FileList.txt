@@ -1,0 +1,5 @@
+bin\Debug\GenericInheritance.exe
+bin\Debug\GenericInheritance.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GenericInheritance.exe
+obj\Debug\GenericInheritance.pdb

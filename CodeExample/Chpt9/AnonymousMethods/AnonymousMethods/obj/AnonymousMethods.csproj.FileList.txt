@@ -1,0 +1,5 @@
+bin\Debug\AnonymousMethods.exe
+bin\Debug\AnonymousMethods.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AnonymousMethods.exe
+obj\Debug\AnonymousMethods.pdb

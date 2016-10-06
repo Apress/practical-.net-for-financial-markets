@@ -1,0 +1,5 @@
+bin\Debug\GenericOrderContainer.exe
+bin\Debug\GenericOrderContainer.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GenericOrderContainer.exe
+obj\Debug\GenericOrderContainer.pdb

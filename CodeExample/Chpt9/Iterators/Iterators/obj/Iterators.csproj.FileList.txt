@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Iterators.exe
+bin\Debug\Iterators.pdb
+obj\Debug\Iterators.exe
+obj\Debug\Iterators.pdb

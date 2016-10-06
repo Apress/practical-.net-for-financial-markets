@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="ISINSchema" targetNamespace="http://tempuri.org/ISINSchema.xsd" elementFormDefault="unqualified"
+	xmlns="http://tempuri.org/ISINSchema.xsd" xmlns:mstns="http://tempuri.org/ISINSchema.xsd"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:complexType name="ISINModel">
+		<xs:sequence>
+			<xs:element name="Exchanges" type="ExchangesModel" />
+		</xs:sequence>
+		<xs:attribute name="Symbol" type="xs:string" />
+		<xs:attribute name="FaceValue" type="IntDataType" />
+		<xs:attribute name="MarketLot" type="IntDataType" />
+		<xs:attribute name="Status" type="StatusDataType" />
+	</xs:complexType>
+	<xs:simpleType name="StatusDataType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Active" />
+			<xs:enumeration value="InActive" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="ExchangeModel">
+		<xs:sequence />
+		<xs:attribute name="Code" type="xs:string" />
+		<xs:attribute name="ScripCode" type="xs:string" />
+	</xs:complexType>
+	<xs:element name="ISINMaster">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="ISIN" type="ISINModel" minOccurs="1" maxOccurs="unbounded" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="ExchangesModel">
+		<xs:sequence>
+			<xs:element name="Exchange" type="ExchangeModel" minOccurs="1" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:simpleType name="IntDataType">
+		<xs:restriction base="xs:int">
+			<xs:minExclusive value="0" />
+		</xs:restriction>
+	</xs:simpleType>
+</xs:schema>

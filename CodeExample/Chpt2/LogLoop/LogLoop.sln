@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogLoop", "LogLoop.csproj", "{C37CE293-4D7A-4BCF-809C-9F32B9C901C3}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C37CE293-4D7A-4BCF-809C-9F32B9C901C3}.Debug.ActiveCfg = Debug|.NET
+		{C37CE293-4D7A-4BCF-809C-9F32B9C901C3}.Debug.Build.0 = Debug|.NET
+		{C37CE293-4D7A-4BCF-809C-9F32B9C901C3}.Release.ActiveCfg = Release|.NET
+		{C37CE293-4D7A-4BCF-809C-9F32B9C901C3}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

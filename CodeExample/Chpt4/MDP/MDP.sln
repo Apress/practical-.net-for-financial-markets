@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDP", "MDP.csproj", "{B5B30600-A616-46AA-88D1-9BD20674D141}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDC", "..\MDC\MDC.csproj", "{43B832AF-9505-4048-AC67-0F1722495DF3}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B5B30600-A616-46AA-88D1-9BD20674D141}.Debug.ActiveCfg = Debug|.NET
+		{B5B30600-A616-46AA-88D1-9BD20674D141}.Debug.Build.0 = Debug|.NET
+		{B5B30600-A616-46AA-88D1-9BD20674D141}.Release.ActiveCfg = Release|.NET
+		{B5B30600-A616-46AA-88D1-9BD20674D141}.Release.Build.0 = Release|.NET
+		{43B832AF-9505-4048-AC67-0F1722495DF3}.Debug.ActiveCfg = Debug|.NET
+		{43B832AF-9505-4048-AC67-0F1722495DF3}.Debug.Build.0 = Debug|.NET
+		{43B832AF-9505-4048-AC67-0F1722495DF3}.Release.ActiveCfg = Release|.NET
+		{43B832AF-9505-4048-AC67-0F1722495DF3}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

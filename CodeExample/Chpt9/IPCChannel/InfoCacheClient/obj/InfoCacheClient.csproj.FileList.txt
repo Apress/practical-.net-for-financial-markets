@@ -1,0 +1,6 @@
+bin\Debug\InfoCacheClient.exe.config
+bin\Debug\InfoCacheClient.exe
+bin\Debug\InfoCacheClient.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\InfoCacheClient.exe
+obj\Debug\InfoCacheClient.pdb

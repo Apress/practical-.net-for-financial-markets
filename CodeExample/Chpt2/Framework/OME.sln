@@ -1,0 +1,26 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OME", "OME.csproj", "{E29D0E2F-0BCC-43BB-8392-0F768417C4F9}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E29D0E2F-0BCC-43BB-8392-0F768417C4F9}.Debug.ActiveCfg = Debug|.NET
+		{E29D0E2F-0BCC-43BB-8392-0F768417C4F9}.Debug.Build.0 = Debug|.NET
+		{E29D0E2F-0BCC-43BB-8392-0F768417C4F9}.Release.ActiveCfg = Release|.NET
+		{E29D0E2F-0BCC-43BB-8392-0F768417C4F9}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(SolutionItems) = postSolution
+		..\..\..\temp\OME.vsd = ..\..\..\temp\OME.vsd
+		..\..\UML\OMEModel.vsd = ..\..\UML\OMEModel.vsd
+		..\..\UML\OMEModel1.vsd = ..\..\UML\OMEModel1.vsd
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

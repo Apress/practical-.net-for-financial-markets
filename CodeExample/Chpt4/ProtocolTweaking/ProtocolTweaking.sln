@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtocolTweaking", "ProtocolTweaking.csproj", "{15D6843F-83B7-4C2E-94A1-3299572949DB}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{15D6843F-83B7-4C2E-94A1-3299572949DB}.Debug.ActiveCfg = Debug|.NET
+		{15D6843F-83B7-4C2E-94A1-3299572949DB}.Debug.Build.0 = Debug|.NET
+		{15D6843F-83B7-4C2E-94A1-3299572949DB}.Release.ActiveCfg = Release|.NET
+		{15D6843F-83B7-4C2E-94A1-3299572949DB}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

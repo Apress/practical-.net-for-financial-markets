@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+	<xs:simpleType name="IntAttribute">
+		<xs:restriction base="xs:int" />
+	</xs:simpleType>
+	<xs:complexType name="bandType">
+		<xs:sequence>
+			<xs:element name="rows" type="rowsType" />
+		</xs:sequence>
+		<xs:attribute name="name" type="xs:string" use="required" />
+		<xs:attribute name="identifier" type="xs:string" use="required" />
+		<xs:attribute name="start" type="IntAttribute" use="required" />
+		<xs:attribute name="loop" type="LoopDataType" use="required" />
+		<xs:attribute name="suppress" type="xs:boolean" use="optional" />
+	</xs:complexType>
+	<xs:simpleType name="LoopDataType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="single" />
+			<xs:enumeration value="repeatable" />
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="bandsType">
+		<xs:sequence>
+			<xs:element name="band" type="bandType" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="colType">
+		<xs:attribute name="name" type="xs:string" use="required" />
+		<xs:attribute name="length" type="IntAttribute" use="required" />
+		<xs:attribute name="start" type="IntAttribute" use="required" />
+		<xs:attribute name="suppress" type="xs:boolean" use="optional" />
+	</xs:complexType>
+	<xs:complexType name="colsType">
+		<xs:sequence>
+			<xs:element name="col" type="colType" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="matrix">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="bands" type="bandsType" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="rowType">
+		<xs:choice>
+			<xs:element name="cols" type="colsType" />
+			<xs:element name="band" type="bandType" />
+		</xs:choice>
+		<xs:attribute name="name" type="xs:string" use="optional" />
+		<xs:attribute name="identifier" type="xs:string" use="optional" />
+		<xs:attribute name="length" type="IntAttribute" use="optional" />
+		<xs:attribute name="coldelimeter" type="xs:string" use="optional" />
+		<xs:attribute name="suppress" type="xs:boolean" use="optional" />
+	</xs:complexType>
+	<xs:complexType name="rowsType">
+		<xs:sequence>
+			<xs:element name="row" type="rowType" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>
